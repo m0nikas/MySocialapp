@@ -31,7 +31,7 @@ const userSchema = new Schema({
     fbTokens: Array,
     facebook: {
         type: String
-    },
+    },stst
     google: {
         type: String
     },
